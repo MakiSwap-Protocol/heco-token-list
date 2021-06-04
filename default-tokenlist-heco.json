@@ -6,7 +6,7 @@
     "minor": 1,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/main/src/coins/maki.png",
+  "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/main/src/tokens/maki.png",
   "keywords": [
     "makiswap",
     "maki",
@@ -35,14 +35,6 @@
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xaaf30bfd42bd9721e77cc31ab85bac893de07625/logo.png"
     },
     {
-      "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
-      "chainId": 128,
-      "name": "Balancer",
-      "symbol": "BAL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f/logo.png"
-    },
-    {
       "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
       "chainId": 128,
       "name": "Bitcoin Cash",
@@ -64,7 +56,7 @@
       "name": "DAI Token",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a/logo.png"
     },
     {
       "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
@@ -80,7 +72,7 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd/logo.png"
     },
     {
       "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
@@ -128,7 +120,7 @@
       "name": "MakiSwap",
       "symbol": "MAKI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93/logo.png"
     },
     {
       "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
@@ -160,7 +152,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
     },
     {
       "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
