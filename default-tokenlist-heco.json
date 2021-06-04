@@ -115,6 +115,14 @@
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x777850281719d5a96c29812ab72f822e0e09f3da/logo.png"
     },
     {
+      "address": "0xfb4c85b31b888e4f84ac131667865e029d6486f7",
+      "chainId": 128,
+      "name": "Soy",
+      "symbol": "SOY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0xfb4c85b31b888e4f84ac131667865e029d6486f7/logo.png"
+    },
+    {
       "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
       "chainId": 128,
       "name": "UniLayer",
