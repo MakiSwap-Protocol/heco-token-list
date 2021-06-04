@@ -19,76 +19,68 @@
   ],
   "tokens": [
     {
-      "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+      "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
       "chainId": 128,
       "name": "Aave",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x202b4936fE1a82A4965220860aE46d7d3939Bb25/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x202b4936fe1a82a4965220860ae46d7d3939bb25/logo.png"
     },
     {
-      "address": "0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625",
+      "address": "0xaaf30bfd42bd9721e77cc31ab85bac893de07625",
       "chainId": 128,
       "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xaaf30bfd42bd9721e77cc31ab85bac893de07625/logo.png"
     },
     {
-      "address": "0x045De15Ca76e76426E8Fc7cba8392A3138078D0F",
+      "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
       "chainId": 128,
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x045De15Ca76e76426E8Fc7cba8392A3138078D0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f/logo.png"
     },
     {
-      "address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
+      "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
       "chainId": 128,
       "name": "Bitcoin Cash",
       "symbol": "BCH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xef3cebd77e0c52cb6f60875d9306397b5caca375/logo.png"
     }, 
     {
-      "address": "0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102",
-      "chainId": 128,
-      "name": "Binance",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102/logo.png"
-    },
-    {
-      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
       "chainId": 128,
       "name": "Bitcoin",
       "symbol": "BTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x66a79d23e58475d2738179ca52cd0b41d73f0bea/logo.png"
     },
     {
-      "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+      "address": "0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a",
       "chainId": 128,
       "name": "DAI Token",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a/logo.png"
     },
     {
-      "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
       "chainId": 128,
       "name": "Polkadot",
       "symbol": "DOT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3/logo.png"
     },
     {
-      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
       "chainId": 128,
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd/logo.png"
     },
     {
       "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
@@ -96,7 +88,7 @@
       "name": "Filecoin",
       "symbol": "FIL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xae3a768f9aB104c69A7CD6041fE16fFa235d1810/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xae3a768f9aB104c69A7CD6041fE16fFa235d1810/logo.png"
     },
     {
       "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
@@ -104,7 +96,7 @@
       "name": "Huobi USD",
       "symbol": "HUSD",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047/logo.png"
     },
     {
       "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
@@ -112,7 +104,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x9e004545c59D359F6B7BFB06a26390b087717b42/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x9e004545c59D359F6B7BFB06a26390b087717b42/logo.png"
     },
     {
       "address": "0xbf22F76657601A522Cf9Ac832718A3404302D6bC",
@@ -120,7 +112,7 @@
       "name": "Loopring",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xbf22F76657601A522Cf9Ac832718A3404302D6bC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xbf22F76657601A522Cf9Ac832718A3404302D6bC/logo.png"
     },
     {
       "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
@@ -128,23 +120,23 @@
       "name": "Litecoin",
       "symbol": "LTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4/logo.png"
     },
     {
-      "address": "0x5FaD6fBBA4BbA686bA9B8052Cf0bd51699f38B93",
+      "address": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
       "chainId": 128,
       "name": "MakiSwap",
       "symbol": "MAKI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x5FaD6fBBA4BbA686bA9B8052Cf0bd51699f38B93/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93/logo.png"
     },
     {
-      "address": "0x777850281719d5a96C29812ab72f822E0e09F3Da",
+      "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
       "chainId": 128,
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x777850281719d5a96C29812ab72f822E0e09F3Da/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x777850281719d5a96c29812ab72f822e0e09f3da/logo.png"
     },
     {
       "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
@@ -152,7 +144,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x22C54cE8321A4015740eE1109D9cBc25815C46E6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x22C54cE8321A4015740eE1109D9cBc25815C46E6/logo.png"
     },
     {
       "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
@@ -160,7 +152,7 @@
       "name": "UniLayer",
       "symbol": "LAYER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c/logo.png"
     },
     {
       "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
@@ -168,7 +160,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
     },
     {
       "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
@@ -176,7 +168,7 @@
       "name": "Tether",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png"
     },
     {
       "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
@@ -184,7 +176,7 @@
       "name": "Huobi Token (Wrapped)",
       "symbol": "WHT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png"
     },
     {
       "address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
@@ -192,7 +184,7 @@
       "name": "Yearn Finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco-main/0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/heco/0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35/logo.png"
     }
   ]
 }
