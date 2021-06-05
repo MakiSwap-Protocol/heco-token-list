@@ -30,7 +30,7 @@
       "address": "0x62c10412d69823a98db5c09cf6e82810e0df5ad7",
       "chainId": 128,
       "name": "ANY Ethereum",
-      "symbol": "anyETH",
+      "symbol": "AETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x62c10412d69823a98db5c09cf6e82810e0df5ad7/logo.png"
     },
