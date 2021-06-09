@@ -115,6 +115,14 @@
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93/logo.png"
     },
     {
+      "address": "0xdb11743fe8b129b49b11236e8a715004bdabe7e5",
+      "chainId": 128,
+      "name": "Polygon Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0xdb11743fe8b129b49b11236e8a715004bdabe7e5/logo.png"
+    },
+    {
       "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
       "chainId": 128,
       "name": "Synthetix",
