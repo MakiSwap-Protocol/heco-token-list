@@ -83,6 +83,14 @@
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd/logo.png"
     },
     {
+      "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+      "chainId": 128,
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0xae3a768f9ab104c69a7cd6041fe16ffa235d1810/logo.png"
+    },
+    {
       "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
       "chainId": 128,
       "name": "Huobi USD",
