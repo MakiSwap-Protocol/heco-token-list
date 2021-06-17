@@ -104,3 +104,4 @@ dist
 .tern-port
 src/tokens/.DS_Store
 src/tokens/0xfb4c85b31b888e4f84ac131667865e029d6486f7/.DS_Store
+.DS_Store

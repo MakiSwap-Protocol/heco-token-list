@@ -27,6 +27,14 @@
       "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x202b4936fe1a82a4965220860ae46d7d3939bb25/logo.png"
     },
     {
+      "address": "0x843af718ef25708765a8e0942f89edeae1d88df0",
+      "chainId": 128,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/master/src/tokens/0x843af718ef25708765a8e0942f89edeae1d88df0/logo.png"
+    },
+    {
       "address": "0x62c10412d69823a98db5c09cf6e82810e0df5ad7",
       "chainId": 128,
       "name": "ANY Ethereum",
